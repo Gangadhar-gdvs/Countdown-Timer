@@ -1,5 +1,4 @@
-body {
-    background-image: url('https://c1.wallpaperflare.com/preview/169/401/192/time-clock-hourglass-hour.jpg'); /* Add your background image URL here */
+.body{
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
